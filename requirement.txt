@@ -1,0 +1,9 @@
+* Python
+* TensorFlow / Keras
+* Librosa
+* NumPy
+* Streamlit
+* Matplotlib
+* Pandas
+* os
+* Seaborn
